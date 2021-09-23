@@ -4,6 +4,7 @@ import "./index.css";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 import "typeface-roboto";
+// import "./BaiTapVeXemPhim/BaiTapBookingTicket";
 
 import rootReducer from "./Redux/RootReducer";
 import { createStore } from "redux";
